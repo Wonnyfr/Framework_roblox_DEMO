@@ -1,3 +1,5 @@
+-- Note that the parent of this script, "Moves" is suppose to the child of "ServerHandler"
+
 local Functions = require(script.Parent.Parent.Functions)
 
 local Combat = {
